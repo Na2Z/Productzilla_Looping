@@ -43,3 +43,5 @@ let Wadah = {
 for (let i in Wadah) {
   console.log(`Properti ${i} memiliki nilai ${Wadah[i]}`);
 }
+
+//yeah
